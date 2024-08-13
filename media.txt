@@ -1,0 +1,12 @@
+inicio
+// declaração de variaveis
+real: N1,N2,N3,N4, // notas bimestres
+    MA; // média anual
+leia (N1, N2, N3, N4); // estrada de dados
+MA ← (N1 + N2 + N3 N4) / 4; // procesamento
+escreva (MA); // saída de dados
+se (MA >= 7)
+    então
+        escreva ("Aluno Aprovado!");
+    fimse;
+fim.
